@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tonysplash03
-- 👀 I’m interested in ...Python
+- 👀 I’m interested in Web Development and Python
 - 🌱 I’m currently learning ...Datascience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ton.chalantorn@hotmail.com
